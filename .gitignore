@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Throwaway/placeholder model — remove this line once you have a REAL trained model to track
+*.pt
