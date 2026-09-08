@@ -1,0 +1,13 @@
+int32 grid_rows
+int32 grid_cols
+float32 cell_spacing_m
+---
+bool success
+string message
+---
+int32 cells_completed
+int32 cells_total
+int32 current_x
+int32 current_y
+float32 last_rho
+string last_label
